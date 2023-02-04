@@ -6,7 +6,7 @@ I thank [Jonas](https://github.com/jonasschmedtmann) for the excellent course an
 
 ### config.js
 
-If you need run this project remember to create you own api key and update the `config.js` file in [src/js](../blob/main/src/js/config.js) folder.
+If you need run this project remember to create you own api key and update the `config.js` file in [src/js](blob/main/src/js/config.js) folder.
 
 Your API key can be generated at:
 https://forkify-api.herokuapp.com/v2
