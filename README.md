@@ -6,15 +6,7 @@ I thank [Jonas](https://github.com/jonasschmedtmann) for the excellent course an
 
 ### config.js
 
-Create a file config.js in "js" directory with the following content:
-
-```javascript
-export const API_URL = "https://forkify-api.herokuapp.com/api/v2/recipes/";
-export const API_KEY = "";
-export const TIMEOUT_SEC = 10;
-export const RES_PER_PAGE = 10;
-export const MODAL_CLOSE_SEC = 2.5;
-```
+If you need run this project remember to create you own api key and update the `config.js` file in [src/js](../blob/main/src/js/config.js) folder.
 
 Your API key can be generated at:
 https://forkify-api.herokuapp.com/v2
