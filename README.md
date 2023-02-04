@@ -8,7 +8,7 @@ I thank [Jonas](https://github.com/jonasschmedtmann) for the excellent course an
 
 Create a file config.js in "js" directory with the following content:
 
-```
+```javascript
 export const API_URL = "https://forkify-api.herokuapp.com/api/v2/recipes/";
 export const API_KEY = "";
 export const TIMEOUT_SEC = 10;
